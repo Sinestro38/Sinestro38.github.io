@@ -59,6 +59,7 @@ body {
   img.profile {
     width: 100%;
     max-width: 216px;
+    padding-bottom: 1rem;
   }
   
   #recent-gallery figcaption {
@@ -82,6 +83,11 @@ body {
     width: 90%;
     max-width: 420px;
     margin: auto;
+  }
+
+  .socials {
+    padding-top: 15px;
+    padding-right: 1rem;
   }
   
   #recent-gallery {
