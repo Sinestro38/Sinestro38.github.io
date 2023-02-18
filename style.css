@@ -168,5 +168,7 @@ body {
   
       div.column-center > div {
         margin-bottom: 2rem;
+        /* increase width of this div */
+        width: 115%;
       }
     }
